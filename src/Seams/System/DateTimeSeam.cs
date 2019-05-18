@@ -1,4 +1,4 @@
-﻿namespace DotNetSeams.System.DateTime
+﻿namespace Seams.System.DateTime
 {
     public class DateTimeSeam : IDateTimeSeam
     {
