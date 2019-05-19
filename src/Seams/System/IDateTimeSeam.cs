@@ -4,6 +4,7 @@
 
     public interface IDateTimeSeam
     {
+        DateTime Now { get; }
         DateTime UtcNow { get; }
     }
 }
