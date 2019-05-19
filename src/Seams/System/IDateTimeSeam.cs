@@ -1,7 +1,9 @@
-﻿namespace Seams.System
+﻿namespace Seams.SystemSeam
 {
+    using System;
+
     public interface IDateTimeSeam
     {
-        global::System.DateTime UtcNow { get; }
+        DateTime UtcNow { get; }
     }
 }
