@@ -2,7 +2,7 @@
 {
     using System;
 
-    public interface IDateTimeSeam
+    public interface IDateTime
     {
         DateTime Now { get; }
         DateTime UtcNow { get; }
