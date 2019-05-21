@@ -4,4 +4,7 @@
     <TargetFrameworks>netstandard1.0;netstandard2.0</TargetFrameworks>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="StyleCop.Analyzers" Version="1.1.118" />
+  </ItemGroup>
 </Project>
